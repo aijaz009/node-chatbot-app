@@ -1,0 +1,17 @@
+{
+  "name": "node-chatbot-app",
+  "version": "1.0.0",
+  "description": "A Node.js chatbot application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "dotenv": "^8.2.0"
+  }
+}
